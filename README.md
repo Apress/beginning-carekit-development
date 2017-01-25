@@ -1,6 +1,6 @@
 #Apress Source Code
 
-This repository accompanies [*Beginning CareKit Development*](http://www.apress.com/9781484222256) by Baxter, Christopher (Apress, 2016).
+This repository accompanies [*Beginning CareKit Development*](http://www.apress.com/9781484222256) by Christopher Baxter (Apress, 2016).
 
 ![Cover image](9781484222256.jpg)
 
